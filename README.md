@@ -1,4 +1,4 @@
-# Hi, I'm Fathima Afnan 👋
+# Hi, I'm Fathima Afnan N👋
 
 ### Full Stack Developer Intern | MCA Graduate
 
