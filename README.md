@@ -7,7 +7,7 @@ I'm a developer interested in building modern, responsive, and user-friendly web
 ### 💻 Technical Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Backend:** Node.js, Python, Django, REST APIs
+- **Backend:** Node.js, Python, Django, REST APIs, Prisma, PostgreSQL
 - **Database:** MySQL, SQLite
 - **Tools:** Git, GitHub, VS Code
 - **Other:** TypeScript, Responsive Web Design
